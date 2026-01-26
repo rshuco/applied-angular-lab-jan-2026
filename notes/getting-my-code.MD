@@ -18,3 +18,11 @@ npx gitpick -o JeffryGonzalez/applied-angular-jan-2026/tree/master /c/Users/Stud
 7. The left side of the screen is the instructor code, the right is yours. Differences should be highlighted\*.
 8. Click on a file that is different, and hit the icon to move the file from the left to the right.
 9. Repeat as necessary (as it says on the shampoo bottle)
+
+It is best to click the buttons that are:
+
+- Show all deleted files
+- Show all modified files
+- Show all created files
+
+The icons for these are hard (for me) to decipher. Just hover over them.
