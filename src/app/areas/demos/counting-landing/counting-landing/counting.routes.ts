@@ -2,6 +2,7 @@ import { Routes } from '@angular/router';
 import { Home } from './internal/home';
 import { HomePage } from './internal/pages/home';
 import { OldSkoolPage } from './internal/pages/old-skool';
+import { NewSkoolPage } from './internal/pages/new-skool';
 
 export const countingFeatureRoutes: Routes = [
   {
@@ -16,6 +17,10 @@ export const countingFeatureRoutes: Routes = [
       {
         path: 'old-skool',
         component: OldSkoolPage,
+      },
+      {
+        path: 'new-skool',
+        component: NewSkoolPage,
       },
     ],
   },

@@ -14,5 +14,9 @@ export class Home {
       path: 'old-skool',
       title: 'Old Skool',
     },
+    {
+      path: 'new-skool',
+      title: 'New Skool',
+    },
   ]);
 }
