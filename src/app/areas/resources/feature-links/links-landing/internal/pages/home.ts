@@ -48,6 +48,8 @@ export class HomePage {
     console.log('Link visited:', linkHref);
     // Here you can add any additional logic you want to execute when a link is visited
   }
+
+  // Api Will Be At https://api.jeff-gonzalez-fake-server.com/developer/resources
   links = signal<Resource[]>([
     {
       id: 'typescript',
